@@ -1,6 +1,5 @@
 # FAANGIndexChecker
-Client-server application who parse data about index FAANG (FB, AAPL,AMZN, NTFX, GOOG) from api
-
+Client-server application who parse data about index FAANG (FB, AAPL,AMZN, NTFX, GOOG) from api. Have internet connection checker.
 Screenshot: 
 
 
